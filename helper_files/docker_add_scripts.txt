@@ -1,0 +1,4 @@
+docker cp C:\Users\abcja\Documents\GitHub\twitter_corporate_profiling\get_data.py 5631a7e226fe:/root/twint
+docker cp C:\Users\abcja\Documents\GitHub\twitter_corporate_profiling\organize_data.py 5631a7e226fe:/root/twint
+
+docker cp C:\Users\abcja\Documents\GitHub\twitter_corporate_profiling\get_data_energy.py 5631a7e226fe:/root/twint

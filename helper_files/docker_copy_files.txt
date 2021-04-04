@@ -1,0 +1,15 @@
+docker cp 5631a7e226fe:/root/twint/tweets_df.pkl C:\Users\abcja\Documents\GitHub\twitter_corporate_profiling\
+docker cp 5631a7e226fe:/root/twint/user_df.pkl C:\Users\abcja\Documents\GitHub\twitter_corporate_profiling\
+
+docker cp 5631a7e226fe:/root/twint/tweets_mention1_df.pkl C:\Users\abcja\Documents\GitHub\twitter_corporate_profiling\
+docker cp 5631a7e226fe:/root/twint/tweets_mention2_df.pkl C:\Users\abcja\Documents\GitHub\twitter_corporate_profiling\
+docker cp 5631a7e226fe:/root/twint/tweets_mention3_df.pkl C:\Users\abcja\Documents\GitHub\twitter_corporate_profiling\
+
+docker cp 5631a7e226fe:/root/twint/top_3_mentions.txt C:\Users\abcja\Documents\GitHub\twitter_corporate_profiling\
+
+
+docker cp 5631a7e226fe:/root/twint/data/coal.pkl C:\Users\abcja\Documents\GitHub\twitter_corporate_profiling\data
+docker cp 5631a7e226fe:/root/twint/data/solar.pkl C:\Users\abcja\Documents\GitHub\twitter_corporate_profiling\data
+docker cp 5631a7e226fe:/root/twint/data/wind.pkl C:\Users\abcja\Documents\GitHub\twitter_corporate_profiling\data
+docker cp 5631a7e226fe:/root/twint/data/gas.pkl C:\Users\abcja\Documents\GitHub\twitter_corporate_profiling\data
+docker cp 5631a7e226fe:/root/twint/data/petro.pkl C:\Users\abcja\Documents\GitHub\twitter_corporate_profiling\data

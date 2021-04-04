@@ -1,0 +1,4 @@
+docker start -i 5631a7e226fe
+
+source .venv/Scripts/activate
+pip install -r requirements.txt
