@@ -9,7 +9,7 @@ Motivation for this project comes from my upcoming interview with a company that
 Python libraries:
 
 1. Twint: to scrape tweets based on search parameters (coal energy, solar energy, wind energy, natural gas energy, and petroleum energy).
-2. Pandas: to organize the tweets into a tabular form
+2. Pandas / NumPy: to organize the tweets into a tabular form
 3. Scikit-learn: to build the sentiment analysis SVC model
 4. Matplotlib / Seaborn: visualize the results.
 5. Wordcloud: to visulize the results from the mentions and hashtags in an easy to digest manner.
